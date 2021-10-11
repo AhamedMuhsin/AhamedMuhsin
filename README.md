@@ -5,7 +5,7 @@
 
 <img align="right" width="300" src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76118e6aa9ba000029f37be20ef451c5d0f855934c0b&rid=giphy.gif&ct=s">
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **HTML %**
 
 - 💬 Ask me about **python**
 
