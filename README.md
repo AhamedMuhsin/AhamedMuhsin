@@ -1,22 +1,40 @@
-<h1 align="center">Hi There 👋, I'm Ahamed Muhsin</h1>
-<h3 align="center">A passionate programmer Beginner and I Like to do some Good Program stuff</h3>
+<h1 align="center">Hi There 👋 I Am Ahamed Muhsin</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhamedMuhsin&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedmuhsin" /> </p>
+<h3 align="center">A Passionate Programmer Beginner and I Like to do some Good Programming Stuff</h3> <hr>
 
-<img align="right" width="300" src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76118e6aa9ba000029f37be20ef451c5d0f855934c0b&rid=giphy.gif&ct=s">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AhamedMuhsin&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedmuhsin" /> </p>
 
-- 🌱 I’m currently learning **HTML 5**
+<img align="right" width="300" height="350" src="Assets\coding form home.gif" />
 
-- 💬 Ask me about **python**
+<h3 align="left">My Skills  <img src="Assets\desktop.png" alt="Desktop" height="40" width="40" /></h3>
 
-- 📫 How to reach me **muhsinjham@gmail.com**
+<h4 align="left">Language and Framework</h4>
 
-- ⚡ Fun fact **In this pervious I Don't now about what is all this things**
+<table>
+<tr>
+<td><img align="center" width="40" height="40" src="Assets\python.png" alt="Python" /></td>
+<td><img align="center" width="40" height="40" src="Assets\html 5.png" alt="html 5" /></td>
+<td><img align="center" width="40" height="40" src="Assets\MySQL.png" alt="MySQL" /></td>
+<td><img align="center" width="40" height="40" src="Assets\css 3.png" alt="css 3" /></td>
+</tr>
+</table>
 
+<h4 align="left">Tools</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table>
+<tr>
+<td><img align="center" width="40" height="40" src="Assets\vscode.png" alt="vscode" /></td>
+<td><img align="center" width="40" height="40" src="Assets\sublime.png" alt="sublime" /></td>
+<td><img align="center" width="40" height="40" src="Assets\pycharm.png" alt="pycharm" /></td>
+<td><img align="center" width="40" height="40" src="Assets\sqlyog.jpg" alt="SQL yog" /></td>
+<td><img align="center" width="40" height="40" src="Assets\photoshop.png" alt="photoshop" /></td>
+<td><img align="center" width="40" height="40" src="Assets\git.png" alt="git" /></td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhamedMuhsin&show_icons=true&locale=en&layout=compact" alt="ahamedmuhsin" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhamedMuhsin&show_icons=true&locale=en" alt="ahamedmuhsin" /></p>
+<h3 align="left">Connect with me :</h3>
+<a href="https://instagram.com/ahamed5426" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahamed5426" height="40" width="40"/></a>&nbsp; &nbsp;
+<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox"><img src="Assets/mail.png" alt="Mail" height="40" width="40"/></a><br><br>
+<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=AhamedMuhsin&show_icons=true&locale=en&layout=compact" alt="ahamedmuhsin"/></p><br>
+<p> <img align="center"src="https://github-readme-stats.vercel.app/api?username=AhamedMuhsin&show_icons=true&locale=en" alt="ahamedmuhsin"/></p>
 
