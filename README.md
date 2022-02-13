@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AhamedMuhsin&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedmuhsin" /> </p>
 
-<img align="right" width="300" height="350" src="Assets\coding form home.gif" />
+<img align="right" width="200" height="250" src="Assets\coding form home.gif" />
 
 <h3 align="left">My Skills  <img src="Assets\desktop.png" alt="Desktop" height="40" width="40" /></h3>
 
