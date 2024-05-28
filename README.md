@@ -16,6 +16,10 @@
 <td><img align="center" width="40" height="40" src="Assets\html 5.png" alt="html 5" /></td>
 <td><img align="center" width="40" height="40" src="Assets\MySQL.png" alt="MySQL" /></td>
 <td><img align="center" width="40" height="40" src="Assets\css 3.png" alt="css 3" /></td>
+<td><img align="center" width="40" height="40" src="Assets\c.png" alt="c" /></td>
+<td><img align="center" width="40" height="40" src="Assets\c++.png" alt="c++" /></td>
+<td><img align="center" width="40" height="40" src="Assets\javascript.png" alt="javascript" /></td>
+<td><img align="center" width="40" height="40" src="Assets\php.png" alt="php" /></td>
 </tr>
 </table>
 
@@ -26,7 +30,7 @@
 <td><img align="center" width="40" height="40" src="Assets\vscode.png" alt="vscode" /></td>
 <td><img align="center" width="40" height="40" src="Assets\sublime.png" alt="sublime" /></td>
 <td><img align="center" width="40" height="40" src="Assets\pycharm.png" alt="pycharm" /></td>
-<td><img align="center" width="40" height="40" src="Assets\sqlyog.jpg" alt="SQL yog" /></td>
+<td><img align="center" width="40" height="40" src="Assets\turbo c++.png" alt="turbo c++" /></td>
 <td><img align="center" width="40" height="40" src="Assets\photoshop.png" alt="photoshop" /></td>
 <td><img align="center" width="40" height="40" src="Assets\git.png" alt="git" /></td>
 </tr>
