@@ -1,4 +1,4 @@
-
+![Profile View](https://komarev.com/ghpvc/?username=AhamedMuhsin&label=Profile%20views&color=0e75b6&style=flat)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahamed-muhsin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhsinjham@gmail.com) 
 
@@ -16,9 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhamedMuhsin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Ahamed GitHub stats](https://github-readme-stats.vercel.app/api?username=AhamedMuhsin&show_icons=true&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=AhamedMuhsin&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
